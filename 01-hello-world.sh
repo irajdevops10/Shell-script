@@ -1,4 +1,4 @@
 #!/bin/bash
 
-# this is comment
+# this is comment section
 echo "Hello World"
